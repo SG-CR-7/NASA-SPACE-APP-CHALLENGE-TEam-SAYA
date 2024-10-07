@@ -1,0 +1,6 @@
+This is Team SAYA's Prototype.
+
+In order for the code to work, please install kivy, by typing 'pip3 install kivy', in the terminal.
+Also, remember to add all image files in the same folder as the file that contains the code, 'hackathon.py'.
+
+Thank you for you time and effort.
